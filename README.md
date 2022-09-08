@@ -7,9 +7,8 @@ I'm a Swedish frontend developer
 
 ## About me
 💡&nbsp;I'm interested in **Coding, Science, history and gaming**
-<br/>🖥&nbsp; See my portfolio at [Strandvide.se](strandvide.se)
 
-## Tech Stack
+## Tech Stack 🖥&nbsp
 <img src="https://img.shields.io/badge/Arduino-05122A?style=flat&logo=arduino" alt="arduino Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Css3-05122A?style=flat&logo=css3" alt="css3 Badge" height="25">&nbsp;
 <img src="https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma" alt="figma Badge" height="25">&nbsp;
