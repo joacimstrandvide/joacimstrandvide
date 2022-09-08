@@ -6,7 +6,7 @@
 I'm a Swedish frontend developer
 
 ## About me
-💡&nbsp;I'm interested about **Coding, Science, history and gaming**
+💡&nbsp;I'm interested in **Coding, Science, history and gaming**
 <br/>🖥&nbsp; See my portfolio at [www.strandvide.se](www.strandvide.se)
 
 ## Tech Stack
