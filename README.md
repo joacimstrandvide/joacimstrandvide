@@ -1,16 +1,22 @@
-### Hi there 👋
+# Joacim Strandvide
+<a href="https://www.github.com/https://github.com/Majoritycactus9" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="25"></a>&nbsp;
+<a href="https://www.linkedin.com/in/https://www.linkedin.com/in/joacim-strandvide-2029bb22b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" height="25"></a>&nbsp;
 
-<!--
-**Majoritycactus9/Majoritycactus9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👋 Hello World
+I'm a Swedish frontend developer
 
-Here are some ideas to get you started:
+## About me
+💡&nbsp;I'm interested about **Coding, Science, history and gaming**
+<br/>🖥&nbsp; See my portfolio at [www.strandvide.se](www.strandvide.se)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+<img src="https://img.shields.io/badge/Arduino-05122A?style=flat&logo=arduino" alt="arduino Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Css3-05122A?style=flat&logo=css3" alt="css3 Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Figma-05122A?style=flat&logo=figma" alt="figma Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Git-05122A?style=flat&logo=git" alt="git Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Html5-05122A?style=flat&logo=html5" alt="html5 Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Javascript-05122A?style=flat&logo=javascript" alt="javascript Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Mysql-05122A?style=flat&logo=mysql" alt="mysql Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Php-05122A?style=flat&logo=php" alt="php Badge" height="25">&nbsp;
+<img src="https://img.shields.io/badge/Python-05122A?style=flat&logo=python" alt="python Badge" height="25">&nbsp;
+
