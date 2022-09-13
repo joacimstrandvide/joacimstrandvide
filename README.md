@@ -5,7 +5,7 @@
 I'm a Swedish frontend developer
 
 ## About me
-💡&nbsp;I'm interested in **Coding, Science, history and gaming**
+💡&nbsp;I'm interested in **programming, science, history and gaming**
 
 ## Tech Stack 🖥
 <img src="https://img.shields.io/badge/Arduino-05122A?style=flat&logo=arduino" alt="arduino Badge" height="25">&nbsp;
