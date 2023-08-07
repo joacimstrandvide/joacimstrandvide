@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">A Full Stack Developer from Sweden</p>
+<p align="center">A Full Stack Developer</p>
 
 ###
 
