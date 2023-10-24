@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">A Full Stack Developer</p>
+<p align="center">A Front-End Developer</p>
 
 ###
 
